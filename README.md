@@ -11,6 +11,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-(/preview-dark-mode.png) 
-(/preview-small-device.png)
+/preview-dark-mode.png
+/preview-small-device.png
 
