@@ -11,4 +11,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![plants website](/preview.png)
+(/preview-dark-mode.png) 
+(/preview-small-device.png)
+
